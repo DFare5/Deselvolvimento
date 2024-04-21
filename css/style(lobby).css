@@ -1,0 +1,64 @@
+
+#Titulo{
+    text-align: center;
+    }
+.Introdução{
+    text-align: center;
+   width: 1100px;
+   height: 100px;
+   background: #a1fafa ;
+   margin: 0 auto;
+}
+.border-radius{
+    border-radius: 40px;
+    border-color: #000;
+    border-style: outset;
+}
+.botaoenem{
+text-align: center;
+   width: 500px;
+   height: 200px;
+   background: #a1fafa ;
+   margin-left: 28%;
+   margin-top: 174px;
+}
+.border-enem{
+    border-radius: 40px;
+    border-color: #000;
+    border-style: outset;
+}
+.boiolagem{
+   text-align: center;
+   width: 500px;
+   height: 200px;
+   background: #a1fafa ;
+   margin-left: 599px;
+   margin-top: -183px;
+}
+#Bob-esponja{
+    position: relative;
+    top: 35px;
+    right: 400px;
+}
+#Notebook{
+    position: relative;
+    top: -145px;
+    right: -400px;
+}
+#fundoinicio{
+    background-color: aqua;
+}
+#ENEM-cronograma{
+    background-color: aqua;
+    position: relative;
+    width: 100px;
+    height: 30px;
+    right: 50px;
+}
+#ENEM-preparatorio{
+    background-color: aqua;
+    position: relative;
+    width: 100px;
+    height: 30px;
+    left: 50px;
+}
